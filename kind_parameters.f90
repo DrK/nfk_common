@@ -4,6 +4,8 @@ Module KIND_PARAMETERS
 !Norman Kirkby 13/2/2004
 !Common Version created 7/1/06
 
+!TESTING GITHUB FORKING THIS IS THE ONLY CHANGE - TM
+
 ! all the compiler dependent stuff including my_system
 ! This is a base class that almost evert other module and routine should use
 !
